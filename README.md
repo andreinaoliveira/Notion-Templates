@@ -1,4 +1,4 @@
-# Notion-Templates
+# Notion Templates
 <div align='center'>
   <a href='https://second-sardine-bc0.notion.site/Templates-2befa253b00e4a89a1ff7b8e9c48f5dc'>Navegue pelos templates pelo Notion</a>
 </div>
