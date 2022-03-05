@@ -1,5 +1,5 @@
 # Notion Templates
-Lista de Templates no Notion voltados para organização pessoal. Cada item do reposítorio representa um template explicando como foi feito, quais links externos foram  utilizados e o mais importate, <b>link pra duplicar</b>.
+Lista de Templates no Notion voltados para organização pessoal. Cada item do repositório representa um template, e nele, explicando como foi feito, quais links externos foram utilizados e o mais importante <b>link pra duplicar</b>.
 
 <a href='https://second-sardine-bc0.notion.site/Templates-2befa253b00e4a89a1ff7b8e9c48f5dc'>Lista no Notion</a>
 
